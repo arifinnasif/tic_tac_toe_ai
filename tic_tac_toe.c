@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-#include "minimax.c"
+#include "minimax_with_pruning.c"
 
 #define INVALID 10
 
